@@ -7,4 +7,3 @@ The goal of this project is to bridge the gap in “as needed” asthma treatmen
 
 ## Team members
 Bryana Higginbotham, Joli Miracle, and Jasmine Williams
-.z,x./s
