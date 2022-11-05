@@ -11,10 +11,10 @@ Bryana\
 
 Jasmine\
 -[X] Find related repositories
--[ ] Application testing via Visual Studio Code and attempt to run
+-[X] Application testing via Visual Studio Code and attempt to run
 -[ ] Identify bugs causing the code to crash and resolve them.
--[ ] 
-
+-[ ] Figure out how to send a notification (email or text to provider) if symptons recurring
+-[ ] Determine which lines of code are not needed in final model and remove them.
 
 Joli\
 -[X] Create application framework
@@ -32,6 +32,4 @@ Unassigned:
 [ ] Create code to for users to be able to log-in from text file\ (do we want to use this??)
 [ ] Make application able to upload to Android\
 [ ] Make applicaiton able to upload to iOs\
-[ ] Figure out how to send a notification (email or text to provider) if symptons recurring\
-[ ] Determine which lines of code are not needed in final model and remove them.
 [ ] Create video and presentation of final code.
